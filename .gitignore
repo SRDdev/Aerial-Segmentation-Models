@@ -1,0 +1,4 @@
+*.jpg
+Data
+Semantic segmentation dataset
+.ipynb_checkpoints
